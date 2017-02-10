@@ -5,8 +5,8 @@ Also, we had to check the amount of memory these techniques used. Apart from tha
 The input (of the network) was taken through a CSV file. I took the permission from my team members to open source the project.
 
 The programmers involved were (lexicographically):-
-Shubham Dobhal
-Sonali Goel
-Tushar Raturi
-Vibhu Jugran
-Vidit Rawat
+Shubham Dobhal,
+Sonali Goel,
+Tushar Raturi,
+Vibhu Jugran,
+Vidit Rawat,
