@@ -9,4 +9,4 @@ Shubham Dobhal,
 Sonali Goel,
 Tushar Raturi,
 Vibhu Jugran,
-Vidit Rawat,
+Vidit Rawat.
